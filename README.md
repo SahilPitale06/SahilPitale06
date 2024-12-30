@@ -12,7 +12,7 @@ I'm an enthusiastic IT student and a **final-year B.Tech student at Dr. Babasahe
 - **Exploratory Data Analysis (EDA)**: Extracting insights from datasets through visualization and statistical analysis.  
 - **Fake News Detection**: A machine learning project to classify news articles as real or fake.  
 - **Employer ATS System**: A system designed to optimize applicant tracking and hiring processes.  
-- **Portfolio Website**: A data-centric portfolio to showcase my skills and projects ([Portfolio Repo ](https://github.com/SahilPitale06/Sahil-Portfolio-.git).  
+- **Portfolio Website**: A data-centric portfolio to showcase my skills and projects [Portfolio Repo ](https://github.com/SahilPitale06/Sahil-Portfolio-.git).  
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python, R  
