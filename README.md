@@ -12,10 +12,11 @@ I'm an enthusiastic IT student and a **final-year B.Tech student at Dr. Babasahe
 - **Exploratory Data Analysis (EDA)**: Extracting insights from datasets through visualization and statistical analysis.  
 - **Fake News Detection**: A machine learning project to classify news articles as real or fake.  
 - **Employer ATS System**: A system designed to optimize applicant tracking and hiring processes.  
-- **Portfolio Website**: A data-centric portfolio to showcase my skills and projects [Portfolio Repo ](https://github.com/SahilPitale06/Sahil-Portfolio-.git).  
+- **Portfolio Website**: A data-centric portfolio to showcase my skills and projects [Portfolio Repo ](https://github.com/SahilPitale06/Sahil-Portfolio-.git).
+- **PDF Toolkit**: A powerful and easy-to-use tool for manipulating PDF documents. Features include merging, splitting, rotating, and converting PDF files.
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, R  
+- **Languages**: Python, R, HTML
 - **Tools**: Anaconda, Pandas, NumPy, Matplotlib, Streamlit  
 - **Frameworks**: Scikit-learn, TensorFlow  
 - **Databases**: MySQL, SQLite  
@@ -25,9 +26,13 @@ I'm an enthusiastic IT student and a **final-year B.Tech student at Dr. Babasahe
 - **Big Data Analytics**  
 - Exploring **Cloud Computing** for data-driven applications
 
-## 📫 Let's Connect!  
+## 📫 Contact  
 - **Email**: sp9328123456@gmail.com  
 - **LinkedIn**: [linkedin.com/in/sahilpitale](https://www.linkedin.com/in/sahil-pitale-56a5681bb/)  
-- **Portfolio**: [My Portfolio](https://sahil-portfolio-two.vercel.app/) 
+- **Portfolio**: [My Portfolio](https://sahil-portfolio-two.vercel.app/)
+
+## Contribution Graph
+[![Sahil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SahilPitale06&theme=react-dark)](https://github.com/SahilPitale06)
+
 
 Feel free to explore my repositories and reach out if you'd like to collaborate! 😊  
